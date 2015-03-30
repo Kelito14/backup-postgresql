@@ -1,2 +1,2 @@
 # backup-postgresql
-script
+script para hacer backup de db.
